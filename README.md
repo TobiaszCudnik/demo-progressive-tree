@@ -1,1 +1,3 @@
-Prototype of a progressively rendered tree UI control, ready for millions of elements.
+Prototype of a progressively rendered tree UI control, working with millions of entries.
+
+Part of an interview with Roche.
